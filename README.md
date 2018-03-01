@@ -1,0 +1,1 @@
+Код к видеоуроку "Распознавание и верификация лиц с помощью Microsotf Face API и PHP" https://www.youtube.com/watch?v=xUU48FbwBC0
